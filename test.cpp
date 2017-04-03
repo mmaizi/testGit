@@ -3,8 +3,6 @@
 using namespace std;
 
 
-
-////testdelete
 int main(int argc, char const *argv[])
 {
 	
